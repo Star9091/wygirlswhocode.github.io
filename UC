@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<style>
+h1 {background-color: white; border-style: inset;font-family:"Georgia"; color:rgb(0,0,155);} 
+body {background-color: lightblue; border-style: ridge;font-family:"Georgia";} 
+div {border-style: dotted;padding: 10px 1px;color: white; }
+dl {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+}
+dt {
+    font-size:110%;
+    color:rgb(25,25,240);
+}
+dd{
+    font-size:100%;
+}
+}
+</style>
+
+<body>
+  <h1>Welcome to my Profile!</h1>
+  <p> Hi! My name is Emily, and I am a member of the Girls Who Code Club at Whitney M. Young!<br><br> Here's a few things about me!</p> <br>
+<dl>
+    <dt>Hello from a Videogamer!</dt>
+    <dd> I mainly play Nintendo games, you'll likely see me playing with my 3DS. I really want to get into PC gaming, though with my years with controllers, so it makes things a bit harder...</dd><br>
+    <dt>Drawing and Writing Creativity!</dt>
+    <dd>I do a bit of doodling and coloring at school, in hopes my teachers don't notice I'm doing so. I also do a bit of writing, though I don't do that much. People had told me that I do a nice job at drawing and writing, so I put it on here.</dd><br>
+    <dt>I can Code!</dt>
+    <dd>I can code in Python and HTML5 and CSS. I'm currently learning how to write in JavaScript and, in general, code faster than I'm currently doing so right now.</dd>
+</dl><br>
+<p>So, that's all about me and how I live my life... So I hope you enjoy looking through our profiles at the Whitney M. Young Girls Who Code Club! In the meanwhile: enjoy your day!</p><br>
+</body>
+</html>
